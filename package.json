@@ -1,5 +1,5 @@
 {
-  "name": "2fapc",
+  "name": "react-template",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "description": "",
   "devDependencies": {
     "@babel/cli": "^7.28.0",
